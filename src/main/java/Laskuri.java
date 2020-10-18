@@ -9,7 +9,7 @@
  * @author maria
  */
 public class Laskuri {
-    
+   //muokattu GitHubissa 
   /* laskuriolion kentan arvoa voi kasvattaa yhdella kutsumalla metodia
      lisaa(). Arvoa voi tarkastella ja sen voi nollata.                 */
 	private int tapahtumia;
