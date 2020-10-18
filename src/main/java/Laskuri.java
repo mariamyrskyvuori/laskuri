@@ -24,7 +24,7 @@ public class Laskuri {
 	}
 
   	public void lisaa(){
-    		this.tapahtumia = this.tapahtumia + 1; 
+    		this.tapahtumia = this.tapahtumia + 10; 
   	}
   	public int lukema(){
     		return this.tapahtumia;
